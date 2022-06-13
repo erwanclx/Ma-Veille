@@ -14,10 +14,14 @@ Avec Flutter, j'ai pu construire l'application mobile correspondant à mon besoi
 
 Le code de l'application est disponible en open-source bien que très simpliste, les accès de ma BDD sont évidemment retirés.
 
-Le repo contient aussi l'intégration en JavaScript 100% Vanilla et seulement côté client.
+Le repo contient aussi l'intégration en JavaScript 100% Vanilla.
 
 
 
 ## Quelques images :
+
+<img align="left" src="app.png" width="300px" style="border-radius:50%">
+
+<img align="right" src="articles.png" height="150px" style="border-radius:50%">
 
 
