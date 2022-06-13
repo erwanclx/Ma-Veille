@@ -1,0 +1,22 @@
+{
+  "articles" : [
+    {
+      "name" : "Annonce de la Dream Wall",
+      "date" : "Le 08 Mai 2022",
+      "text" : "Résumé : Unifi a annoncé la sortie de sa console réseau dans une déclinaison intégrant du PoE.",
+      "source" : "Notebookcheck",
+      "url_origin" : "https://www.notebookcheck.com/",
+      "url" : "https://www.notebookcheck.com/Ubiquiti-kuendigt-Unifi-Dream-Wall-als-Rackersatz-fuer-kleine-Netzwerke-an.618229.0.html"
+
+    },
+    {
+      "name" : "Annonce de la Dream Machine SE",
+      "date" : "Le 11 Février 2022",
+      "text" : "Résumé : Unifi a annoncé la sortie de sa console réseau dans une déclinaison qui se pose directement à un mur sans nécessité d'avoir une baie.",
+      "source" : "Lokan",
+      "url_origin" : "https://lokan.jp/",
+      "url" : "https://lokan.jp/2022/02/11/unifi-dream-machine-se/"
+
+    }
+  ]
+}
