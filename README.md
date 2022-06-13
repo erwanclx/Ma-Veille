@@ -20,4 +20,8 @@ Le repo contient aussi l'intégration en JavaScript 100% Vanilla.
 
 ## Quelques images :
 
+<img align="left" src="app.png" width="300px" style="border-radius:50%">
+
+<img align="right" src="articles.png" height="150px" style="border-radius:50%">
+
 
