@@ -4,7 +4,7 @@ Ma veille est une application Mobile, de Bureau et Web qui permet via une base d
 
 ## L'origine du projet
 
-Pour notre BTS, une veilel technologique doit être instaurée. L'obligation de se connecter et de modifier le code bien même si minime me semblait être une perte de temps.
+Pour notre BTS, une veille technologique doit être instaurée. L'obligation de se connecter et de modifier le code même si minime me semblait être une perte de temps.
 
 La majeure partie de ma veille se déroule sur mon téléphone, donc il me semblait évident qu'ajouter mes articles depuis celui-ci serait un gain de temps phénoménal.
 
